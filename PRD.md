@@ -13,7 +13,9 @@
   
 - **Problem Statement:**
 The problem we are trying to solve can be split into two parts: 1) new homeowners are often overwhelmed when it comes to taking care of their new property, which results in a reactive and stressful approach akin to whack-a-mole and 2) the advice they may get is very generic from strangers on the internet and said advice is not tailored to their specific situations or local climate.
-- **Goals & Objectives:** What success looks like; 3–5 bullets.
+- **Goals & Objectives:**
+  -- What success looks like; 3–5 bullets.
+  -- What success looks like; 3–5 bullets.
 - **Non-Goals:** Explicitly list what’s out of scope to avoid scope creep.
 
 ## 3. Context & Background
