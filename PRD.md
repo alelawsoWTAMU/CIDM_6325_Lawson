@@ -1,15 +1,5 @@
-
-Page
-3
-of 3
 # Product Requirements Document (PRD)
-> How to use this template
->
-> - Keep headings and section order; delete guidance text as you fill it in.
-> - Follow repo Markdown lint rules (H1 on first line, no trailing punctuation in
-headings, no bare URLs).
-> - Prefer links like <https://example.com> and keep line length ~100 chars.
->
+
 ## 1. Document Information
 - Product/Feature Name: Home Maintenance Compass
 - Author(s): Alexander J Lawson
