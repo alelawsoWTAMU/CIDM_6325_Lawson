@@ -8,7 +8,7 @@
 - Version: 0.1
 ---
 ## 2. Overview
-- Summary: One paragraph on what this is and why it matters.
+- **Summary:**
   This tool is called the Home Maintenance Compass. It's purpose is to assist new homeowners in creating a personalized preventative maintenance, in addition to provided verified knowledge from nearby experts. The philosophy behind this tool is to prevent homeowners from having to make stressful and costly repairs by providing them an organized plan and access to local resources. The primary target audience are first-time buyers, specifically Millenials and Gen Z, who may never have received guidance or been mentored on what it takes to take care of a property.
   
 - Problem Statement: What problem are we solving for users or the business?
