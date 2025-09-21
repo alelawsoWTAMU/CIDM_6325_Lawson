@@ -85,7 +85,9 @@ reduction, task completion rate).
 - Training/Documentation Needs: Internal docs, support guides, user education.
 ---
 ## 13. Open Questions
-- Outstanding decisions or unresolved questions.
+- What are the necessary inputs to include in order to create a dynamic maintenance schedule to balance effectiveness and user effort?
+- How do we incentivize local community contributors to contribute to the space and ensure a consistent flow of high-quality tips?
+
 ---
 ## 14. References
 - Links to related PRDs, design records, ADRs, technical specs, or strategy docs.
