@@ -11,11 +11,11 @@ headings, no bare URLs).
 > - Prefer links like <https://example.com> and keep line length ~100 chars.
 >
 ## 1. Document Information
-- Product/Feature Name: TODO
-- Author(s): TODO
-- Date Created: TODO (YYYY-MM-DD)
-- Last Updated: TODO (YYYY-MM-DD)
-- Version: 0.1 (Draft)
+- Product/Feature Name: Home Maintenance Compass
+- Author(s): Alexander J Lawson
+- Date Created: 2025-09-21
+- Last Updated: 2025-09-21
+- Version: 0.1
 ---
 ## 2. Overview
 - Summary: One paragraph on what this is and why it matters.
