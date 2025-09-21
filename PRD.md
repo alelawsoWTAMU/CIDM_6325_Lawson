@@ -19,17 +19,27 @@ The problem we are trying to solve can be split into two parts: 1) new homeowner
   - Create a community-driven knowledge base for localized tips and advice.
   - Reduce the likelihood of costly and stressful home repairs caused by neglect.
 
-- **Non-Goals:** Explicitly list what’s out of scope to avoid scope creep.
-The initial version of this product will not include automated parts ordering, e-commerce integration, professional contractor bidding, smart home device integration, or AI-driven diagnostics.
+- **Non-Goals:**
+The initial version of this product will not include features related to the automated ordering ordering of products or parts, e-commerce integration, professional contractor bidding, smart home device integration, or AI-driven diagnostics.
 
 ## 3. Context & Background
-- **Business Context:** Link to strategy, OKRs, or initiatives.
-- **Market/Customer Insights:** Personas, research, or data supporting the need.
-- **Competitive/Benchmark References:** Optional, if applicable.
+- **Business Context:** The product is tethered to the goal of fostering preventative home maintenance with the additional benefit of reducing insurance claims dealing with neglect. This initative would lower the volume of potential claims for both the customers and insurance providers.
+- **Market/Customer Insights:** 
+The persona of our target audience is first-time homeowners, particularly those in the Millennial and Gen Z generations. These individuals are digitally savvy and used to having any answer to any question at their fingertips. However, many report feelings of being blindsided by the practical realities posed by maintaining a home. They don't typically have a community of knowledgeable people they can ask questions and suffer from a consistent anxiety that their one hard asset, their home, could fall apart. 
+According to a 2022 survey from Thumbtack, 80% of millennial homeowners and 81% of first-time buyers felt overwhelmed or stressed about upkeeping their homes amongst these generations.  Additionally, these individuals are concerned about their ability to stay financially solvent if something breaks. A May 2025 report from Kin Insurance articulated that 72% of Gen-Z and millennial first-time homebuyers encountered unexpected issues after moving in, at an average cost of over $5,000. When you factor in that most of the homes these people buy are fixer-uppers, you can understand their concern. Lastly, they feel anxious about being seen as incompetent when pursuing home repairs To summarize, they often feel daunted by home maintenance tasks. These individuals may not have had a mentor in "Homeownership 101" and find that reliable, specific information is scattered and unverified. There is also a market for budget-conscious users who want to extend the life of their systems and are interested in DIY solutions.
 ---
 ## 4. Scope
-- **In Scope:** Bullet list of included features/capabilities.
+- **In Scope:**
+  - A personalized maintenance schedule based on user inputs like home age, construction type, and climate zone.
+  - Maintenance task profiles with step-by-step guides, required tools, and estimated time.
+  - A localized tips module with user submission and upvoting functionality.
+  - A digital log for key home information, trusted service providers, and links to articles/videos.
 - **Out of Scope:** Bullet list of excluded items to prevent ambiguity.
+  - Automated parts ordering or e-commerce integration.
+  - Recommendations for replacement appliances or service providers based on environmental factors.
+  - Professional contractor bidding or scheduling services.
+  - Integration with smart home devices.
+  - AI-driven diagnostics for maintenance issues.
 ---
 ## 5. User Stories & Use Cases
 - Primary User Persona(s): Who benefits?
@@ -41,7 +51,7 @@ The initial version of this product will not include automated parts ordering, e
 ## 6. Functional Requirements
 - FR-001: Requirement text
 - FR-002: Requirement text
-- FR-003: Requirement text
+- FR-003: Requirement text/
 > Tip: Tie each FR to a user story or acceptance criteria below.
 ---
 ## 7. Non-Functional Requirements
@@ -79,5 +89,12 @@ reduction, task completion rate).
 ---
 ## 14. References
 - Links to related PRDs, design records, ADRs, technical specs, or strategy docs.
+  - [https://www.kin.com/blog/generational-homeownership-survey-2025/]
+  - [https://www.opendoor.com/articles/homeseller-report]
+  - [https://newsroom.bankofamerica.com/content/newsroom/press-releases/2025/07/confronted-with-higher-living-costs--72--of-young-adults-take-ac.html]
+  - [https://blog.thumbtack.com/investing-in-home-maintenance-pays-off-yet-the-majority-of-homeowners-are-under-budgeting-84426995b6c5]
+  - [https://www.thumbtack.com/guide/content/survey-home-maintenance-stress-454171293741948943.]
+  - [https://partnerships.homeserve.com/water-solutions/millennial-homeowners-surprised-by-maintenance-costs-2/]
+  - [https://talkerresearch.com/gen-z-millennials-fall-behind-on-this-home-necessity/]
 - Example: FR-001 passes when a user uploads a file up to 100 MB within 3 s without
 error.
