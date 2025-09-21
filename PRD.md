@@ -10,6 +10,7 @@
 ## 2. Overview
 - Summary: One paragraph on what this is and why it matters.
 - Problem Statement: What problem are we solving for users or the business?
+- The problem we are trying to solve is 
 - Goals & Objectives: What success looks like; 3–5 bullets.
 - Non-Goals: Explicitly list what’s out of scope to avoid scope creep.
 ---
