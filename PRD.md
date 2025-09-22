@@ -81,11 +81,9 @@ The persona of our target audience is first-time homeowners, particularly those 
       - Mitigation: Incentivize early adopters to contribute and seed the database with high-quality, pre-researched tips, gathered from online research.
   - Legal liability could arise if a user attempts a DIY task based on a tip and causes damage or injury.
       - Mitigation: Implement a clear, bullet-proof disclaimer which specifies tips are user-generated and strongly advise users to consult a professional.
-
 - **Assumptions:** Preconditions believed to be true.
   - Users will be willing to provide detailed information about their homes to generate a personalized schedule.
   - A community of experienced homeowners and contractors will be willing and able to contribute tips and advice to this specific application.
-
 ---
 ## 10. Acceptance Criteria
 - Clear, testable conditions for acceptance.
