@@ -112,11 +112,8 @@ The persona of our target audience is first-time homeowners, particularly those 
 ## 14. References
 - Links to related PRDs, design records, ADRs, technical specs, or strategy docs.
   - [https://www.kin.com/blog/generational-homeownership-survey-2025/]
-  - [https://www.opendoor.com/articles/homeseller-report]
-  - [https://newsroom.bankofamerica.com/content/newsroom/press-releases/2025/07/confronted-with-higher-living-costs--72--of-young-adults-take-ac.html]
+  - [https://www.opendoor.com/articles/homeseller-report]  - [https://newsroom.bankofamerica.com/content/newsroom/press-releases/2025/07/confronted-with-higher-living-costs--72--of-young-adults-take-ac.html]
   - [https://blog.thumbtack.com/investing-in-home-maintenance-pays-off-yet-the-majority-of-homeowners-are-under-budgeting-84426995b6c5]
   - [https://www.thumbtack.com/guide/content/survey-home-maintenance-stress-454171293741948943.]
   - [https://partnerships.homeserve.com/water-solutions/millennial-homeowners-surprised-by-maintenance-costs-2/]
   - [https://talkerresearch.com/gen-z-millennials-fall-behind-on-this-home-necessity/]
-- Example: FR-001 passes when a user uploads a file up to 100 MB within 3 s without
-error.
