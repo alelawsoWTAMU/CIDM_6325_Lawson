@@ -55,11 +55,11 @@ The persona of our target audience is first-time homeowners, particularly those 
 
 ---
 ## 6. Functional Requirements
-  - FR-001: The system must generate a personalized maintenance schedule based on user-provided inputs like Home Age, Climate Zone, Appliance Age/Manufacturer, etc.  This FR relates to the Happy Path scenario.
-- FR-002: The system must provide a step-by-step guide, a list of required tools, and an estimated time for each respective maintenance task or be forthcoming in admitting the algorithm isn’t able to confidently provide helpful advice. This FR relates to the Happy Path scenario. This FR relates to the Happy Path and Edge Case A scenario.
-- FR-003: The system must allow users to submit and upvote tips tied to a specific local area or community. This FR relates to the Happy Path.
-- FR-005: The system must have a process/function in place for content moderators to control and verify the tips to promote good advice and eliminate bad advice. This FR relates to the Edge Case B scenario.
-- FR-006: The system must provide a simple digital interface for a database to log key home information and vendor contact details. This FR relates to the Happy Path.
+  - **FR-001:** The system must generate a personalized maintenance schedule based on user-provided inputs like Home Age, Climate Zone, Appliance Age/Manufacturer, etc.  This FR relates to the Happy Path scenario.
+- **FR-002:** The system must provide a step-by-step guide, a list of required tools, and an estimated time for each respective maintenance task or be forthcoming in admitting the algorithm isn’t able to confidently provide helpful advice. This FR relates to the Happy Path scenario. This FR relates to the Happy Path and Edge Case A scenario.
+- **FR-003:** The system must allow users to submit and upvote tips tied to a specific local area or community. This FR relates to the Happy Path.
+- **FR-005:** The system must have a process/function in place for content moderators to control and verify the tips to promote good advice and eliminate bad advice. This FR relates to the Edge Case B scenario.
+- **FR-006:** The system must provide a simple digital interface for a database to log key home information and vendor contact details. This FR relates to the Happy Path.
 ---
 ## 7. Non-Functional Requirements
 - Performance: e.g., p95 response time under 200 ms
