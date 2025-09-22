@@ -90,9 +90,11 @@ The persona of our target audience is first-time homeowners, particularly those 
 - Example: FR-001 passes when a user uploads a file up to 100 MB within 3 s without
 error.
 - The MVA will be accepted when:
-    - A basic Personalized Maintenance Schedule generates a checklist based on user inputs.
-    - The Task Profiles feature contains basic, pre-written guides for 10-15 common maintenance items.
-    - The Localized Tips Module has a simple submission and upvoting system.
+    - A basic Personalized Maintenance Schedule generates a checklist based on user inputs within mere seconds. See FR-001.
+    - The Task Profiles feature contains basic, pre-written step-by-step guides for 10-15 common maintenance items, along with a list of required tools and an estimated timetable.  See FR-002.
+    - The Localized Tips Module has a simple submission and upvoting system. See FR-003.
+    - The Localized Tips Module has a function/process in place to moderate and verify tips for quality. See FR-004.
+    - The application is capable of interfacing with a database filled with home information essential to creating work schedules and vendor contact details.  See FR-005.
 ---
 ## 11. Success Metrics
 - KPIs or OKRs that indicate success (adoption %, NPS, revenue impact, error
