@@ -89,6 +89,10 @@ The persona of our target audience is first-time homeowners, particularly those 
 - Clear, testable conditions for acceptance.
 - Example: FR-001 passes when a user uploads a file up to 100 MB within 3 s without
 error.
+- The MVA will be accepted when:
+    - A basic Personalized Maintenance Schedule generates a checklist based on user inputs.
+    - The Task Profiles feature contains basic, pre-written guides for 10-15 common maintenance items.
+    - The Localized Tips Module has a simple submission and upvoting system.
 ---
 ## 11. Success Metrics
 - KPIs or OKRs that indicate success (adoption %, NPS, revenue impact, error
