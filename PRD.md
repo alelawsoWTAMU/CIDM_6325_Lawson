@@ -62,11 +62,11 @@ The persona of our target audience is first-time homeowners, particularly those 
 - **FR-006:** The system must provide a simple digital interface for a database to log key home information and vendor contact details. This FR relates to the Happy Path.
 ---
 ## 7. Non-Functional Requirements
-- Performance: e.g., p95 response time under 200 ms
-- Scalability: expected load, growth assumptions
-- Accessibility: WCAG targets, keyboard nav, color contrast
-- Security/Compliance: authz/authn, data handling, PII, regulatory
-- Reliability/Availability: SLOs, error budgets, degradation behavior
+- **Performance:** There is a crucial need for a strong, responsive system.  One metric that can be utilized to measure this is “Task Completion Rate”, which begs the requirement of a responsive and easy to use tool a user can utilize. The tool is dependent on retaining users and if the product performs poorly this is unlikely.  Another metric will be response time, which ideally will be within a couple seconds at most, if not faster, in order to evoke the feeling of receiving instant feedback. 
+- **Scalability:** We anticipate a growth in users and the data they submit, especially in the “Localized Tips Module” where community contributors are expected to consistently provide tips.  To handle this, the architecture must be capable of handling higher user submissions, in the realm of several thousand users in the beginning, and many more in the future.
+- **Accessibility:** It is crucial for the implementation of a strong user interface, with purpose being of preventing low user retention. The plan to address is to promote a crisp, intuitive design and utilize thorough UX testing flesh out any negative flows. 
+- **Security/Compliance:** There is a concern posed by potential legal liability related to relaying/exposing individuals to crowd-sourced advice. This is explicitly addressed via a strong, easy-to-understand disclaimer, as well as an advisory to consult a professional on any and all DIY tips. While not strictly a security requirement, this falls under legal and safety compliance. Furthermore, the use of an SQL database to store general contact information for verified, trusted service providers implies a need for secure data handling.  There will also be a need for authentication, especially for administrators and content moderators.
+- **Reliability/Availability:** The application must be reliable in functionality. If the application fails to meet the functional requirements above, users will deem the product to be poor and take their attention elsewhere.  This cannot happen. Therefore, it is paramount that the application does what it must do and evoke a feeling of being approachable and effective for new users.
 ---
 ## 8. Dependencies
 - Internal system dependencies
