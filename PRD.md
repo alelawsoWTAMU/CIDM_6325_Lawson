@@ -47,7 +47,11 @@ The persona of our target audience is first-time homeowners, particularly those 
 - As a new homeowner, I want a personalized maintenance schedule, so that I know what tasks I need to do and when to do them.
 - As a DIY enthusiast, I want step-by-step guides for common tasks, and access to approachable and knowledgeable individuals, so that I can confidently and competently complete them myself.
 - As a local community member, I want to provide and have access to useful tips, so that I can share my knowledge to help others and be helped if I require it.
-- Use Case Scenarios: Happy path and 1–2 edge cases.
+- **Use Case Scenarios:** 
+  - **Happy Path:** The ideal scenario is that a new, young homeowner creates a profile, inputs their home's details, and receives a schedule. For example, a user named John Doe would enter the home's age (1985), construction type (wood frame), her climate zone (Midwestern U.S.) and the ages of appliances.  The app would then create a customized schedule with weekly, seasonal or annual tasks such as “Clean the Gutters” or “Change the Air Filter”.  John would get a notification when it’s time to perform a task and it would have retired tools and a step-by-step guide.  They follow this schedule, marking tasks as complete, and use the task profiles for guidance on how to perform them. They would also browse the knowledge base and upvote tips for their community.
+  - **Edge Cases:**
+    - **A:**
+    - **B:**
 ---
 ## 6. Functional Requirements
 - FR-001: Requirement text
