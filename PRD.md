@@ -86,9 +86,6 @@ The persona of our target audience is first-time homeowners, particularly those 
   - A community of experienced homeowners and contractors will be willing and able to contribute tips and advice to this specific application.
 ---
 ## 10. Acceptance Criteria
-- Clear, testable conditions for acceptance.
-- Example: FR-001 passes when a user uploads a file up to 100 MB within 3 s without
-error.
 - The MVA will be accepted when:
     - A basic Personalized Maintenance Schedule generates a checklist based on user inputs within mere seconds. See FR-001.
     - The Task Profiles feature contains basic, pre-written step-by-step guides for 10-15 common maintenance items, along with a list of required tools and an estimated timetable.  See FR-002.
@@ -97,13 +94,15 @@ error.
     - The application is capable of interfacing with a database filled with home information essential to creating work schedules and vendor contact details.  See FR-005.
 ---
 ## 11. Success Metrics
-- KPIs or OKRs that indicate success (adoption %, NPS, revenue impact, error
-reduction, task completion rate).
+- **Task Completion Rate:** Our primary success metric is a high percentage of users mark scheduled maintenance tasks as "complete" within a defined time frame.
+- **Knowledge Acquisition:** Users spend a considerable amount of time viewing and interacting with the task profiles and localized tips. This can be measured by montitoring the number of users.
+- **Community Engagement:** A consistent flow of new, unique tips and questions being submitted to the Localized Tips Module. This can be measured be the number of tips and the engagement (upvotes/downvotes) associated with each post.
+- **User Retention:** A high rate of users return to the app after the initial launch, especially for seasonal tasks in particular. This would be measured by monitoring traffic and the percentage of the Task Completion Rate.
 ---
 ## 12. Rollout & Release Plan
-- Phasing: MVP vs. future iterations.
-- Release Channels: Beta, staged rollout, general availability.
-- Training/Documentation Needs: Internal docs, support guides, user education.
+- **Phasing:** Specifically, the first phase will be the MVA, which includes a basic personalized checklist, a limited number of task guides, and a simple tips module. Subsequent cycles will focus on creating an intuitive, user-friendly setup process and seeding the core task database with 10-15 common maintenance items; further  features will be expanded based on user feedback.
+- **Release Channels:** Prototype, Beta, Initial Rollout and Final Product
+- **Training/Documentation Needs:** There will be support guides posted on the GitHub repository for the development and maintenance process and an easy-to-read user guide on how to use the application.
 ---
 ## 13. Open Questions
 - What are the necessary inputs to include in order to create a dynamic maintenance schedule to balance effectiveness and user effort?
