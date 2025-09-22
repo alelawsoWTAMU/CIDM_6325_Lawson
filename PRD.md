@@ -69,13 +69,23 @@ The persona of our target audience is first-time homeowners, particularly those 
 - **Reliability/Availability:** The application must be reliable in functionality. If the application fails to meet the functional requirements above, users will deem the product to be poor and take their attention elsewhere.  This cannot happen. Therefore, it is paramount that the application does what it must do and evoke a feeling of being approachable and effective for new users.
 ---
 ## 8. Dependencies
-- Internal system dependencies
-- External APIs/third-party services
-- Cross-team deliverables
+- **Internal system dependencies:** Django API for connecting the user interace to the core modules and SQL databases.
+- **External APIs/third-party services:** N/A
+- **Cross-team deliverables:** N/A
 ---
 ## 9. Risks & Assumptions
-- Risks: Potential pitfalls and mitigation strategies.
-- Assumptions: Preconditions believed to be true.
+- **Risks:** 
+  - The algorithm for the personalized maintenance schedule becomes too complex or churns out ineffective schedules.
+      - Mitigation: Focus on common inputs for the MVA and use a dynamic, flexible design which will make room for future complexity.
+  - Lackluster community participation could result in low-quality or low volume in terms of localized tips.
+      - Mitigation: Incentivize early adopters to contribute and seed the database with high-quality, pre-researched tips, gathered from online research.
+  - Legal liability could arise if a user attempts a DIY task based on a tip and causes damage or injury.
+      - Mitigation: Implement a clear, bullet-proof disclaimer which specifies tips are user-generated and strongly advise users to consult a professional.
+
+- **Assumptions:** Preconditions believed to be true.
+  - Users will be willing to provide detailed information about their homes to generate a personalized schedule.
+  - A community of experienced homeowners and contractors will be willing and able to contribute tips and advice to this specific application.
+
 ---
 ## 10. Acceptance Criteria
 - Clear, testable conditions for acceptance.
