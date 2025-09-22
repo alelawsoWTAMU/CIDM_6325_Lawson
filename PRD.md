@@ -42,10 +42,11 @@ The persona of our target audience is first-time homeowners, particularly those 
   - AI-driven diagnostics for maintenance issues.
 ---
 ## 5. User Stories & Use Cases
-- Primary User Persona(s): Who benefits?
-- User Stories:
-- As a [user], I want [feature], so that [benefit].
-- As a [role], I can [action], so that [outcome].
+- **Primary User Persona(s):** First-time homeowners, budget-conscious homeowners, local community contributors and property managers.
+- **User Stories:**
+- As a new homeowner, I want a personalized maintenance schedule, so that I know what tasks I need to do and when to do them.
+- As a DIY enthusiast, I want step-by-step guides for common tasks, and access to approachable and knowledgeable individuals, so that I can confidently and competently complete them myself.
+- As a local community member, I want to provide and have access to useful tips, so that I can share my knowledge to help others and be helped if I require it.
 - Use Case Scenarios: Happy path and 1–2 edge cases.
 ---
 ## 6. Functional Requirements
